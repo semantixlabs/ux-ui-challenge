@@ -16,6 +16,9 @@ O usuário terá acesso freemium ao app através do website da DA. Para criar um
 
 Quando o usuário que já possui conta acessar a plataforma, deverá fazer autenticação antes de prosseguir. Neste fluxo tradicional, os dados mínimos de autenticação são email e senha de acesso. Como a DA se preocupa com a segurança do seus usuários e do sistema, ela gostaria que todos os usuários tivessem ativo multiplos fatores de autenticação (MFA). E que no primeiro login pelo menos 2 formas de recuperação de conta fossem configurados. Assim, ela pede que você sugira o fluxo de configuração dessas 2 formas de recuperação da conta
 
+
+## O que se espera do fluxo de recuperação de conta
+
 Enfim, caso o usuário esqueça a senha ou perca acesso ao aparelho na qual o MFA foi configurado, deve-se ter um fluxo de recuperação da conta, que considera o que foi configurado durante o primeiro acesso do usuário à plataforma.
 
 ## Resumo
